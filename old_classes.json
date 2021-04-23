@@ -1,0 +1,307 @@
+{
+    "events" : [
+        {
+            "summary": "10215 Computational Models",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 101\nLecturer: Gadi Pinkas",
+            "start": {
+                "dateTime": "2021-04-18T07:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-18T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10215 Computational Models",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 101\nLecturer: Gadi Pinkas",
+            "start": {
+                "dateTime": "2021-04-25T07:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-25T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10215 Computational Models",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 101\nLecturer: Gadi Pinkas",
+            "start": {
+                "dateTime": "2021-04-11T07:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-11T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10215 Computational Models",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 101\nLecturer: Gadi Pinkas",
+            "start": {
+                "dateTime": "2021-04-04T07:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-04T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10215 Computational Models",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 101\nLecturer: Gadi Pinkas",
+            "start": {
+                "dateTime": "2021-03-28T07:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-03-28T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+
+        {
+            "summary": "10120 Algorithm Design",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 303\nLecturer: Maria Artischev",
+            "start": {
+                "dateTime": "2021-03-28T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-03-28T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10120 Algorithm Design",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 303\nLecturer: Maria Artischev",
+            "start": {
+                "dateTime": "2021-04-04T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-04T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10120 Algorithm Design",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 303\nLecturer: Maria Artischev",
+            "start": {
+                "dateTime": "2021-04-11T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-11T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10120 Algorithm Design",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 303\nLecturer: Maria Artischev",
+            "start": {
+                "dateTime": "2021-04-18T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-18T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10120 Algorithm Design",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 303\nLecturer: Maria Artischev",
+            "start": {
+                "dateTime": "2021-04-25T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-25T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+
+        {
+            "summary": "10303 Operating Systems",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 207\nLecturer: Barak Shenhav",
+            "start": {
+                "dateTime": "2021-03-29T10:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-03-29T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10303 Operating Systems",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 207\nLecturer: Barak Shenhav",
+            "start": {
+                "dateTime": "2021-04-05T10:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-05T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10303 Operating Systems",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 207\nLecturer: Barak Shenhav",
+            "start": {
+                "dateTime": "2021-04-12T10:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-12T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10303 Operating Systems",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 207\nLecturer: Barak Shenhav",
+            "start": {
+                "dateTime": "2021-04-19T10:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-19T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10303 Operating Systems",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 207\nLecturer: Barak Shenhav",
+            "start": {
+                "dateTime": "2021-04-26T10:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-26T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+
+
+        {
+            "summary": "10211 Programming Languages",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 206\nLecturer: Micha Barshep",
+            "start": {
+                "dateTime": "2021-03-30T14:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-03-30T16:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10211 Programming Languages",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 206\nLecturer: Micha Barshep",
+            "start": {
+                "dateTime": "2021-04-06T14:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-06T16:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10211 Programming Languages",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 206\nLecturer: Micha Barshep",
+            "start": {
+                "dateTime": "2021-04-13T14:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-13T16:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10211 Programming Languages",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 206\nLecturer: Micha Barshep",
+            "start": {
+                "dateTime": "2021-04-20T14:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-20T16:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "10211 Programming Languages",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 206\nLecturer: Micha Barshep",
+            "start": {
+                "dateTime": "2021-04-27T14:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-27T16:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "Assigment #1 Programming Languages",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "To be submitted before event starts via moodle system",
+            "start": {
+                "dateTime": "2021-04-28T23:59:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-28T23:59:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "Homework #3 Algoriths",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "To be submitted before event starts via moodle system",
+            "start": {
+                "dateTime": "2021-04-22T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-22T09:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        },
+        {
+            "summary": "Operating Systems Quiz",
+            "location": "Mivtsa Kadesh St 38, Tel Aviv-Yafo, 6910717",
+            "description": "Class: 123\nLecturer: Barak Shenhav",
+            "start": {
+                "dateTime": "2021-04-07T08:00:00",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "end": {
+                "dateTime": "2021-04-07T12:00:00",
+                "timeZone": "Asia/Jerusalem"
+            }
+        }
+    ]
+}
